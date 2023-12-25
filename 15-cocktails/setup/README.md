@@ -13,3 +13,9 @@
 ```sh
 npm install react-router-dom@6
 ```
+
+
+#### Deploy to Netlify 
+
+npm install && npm run build 
+drag and drop build folder into netlify 
